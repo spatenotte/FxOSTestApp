@@ -1,2 +1,2 @@
 # FxOSTestApp
-Simple test app for Firefox OS, that asks for geolocation and contacts access
+Simple test app for Firefox OS, that asks for several types of permission access (geolocation, contacts, etc...),  and also test for IndexedDB log reading.
